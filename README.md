@@ -24,5 +24,7 @@
 
 - Translate the questions to the technique
 
+## Concrete steps for EDA
 
+<img width="777" alt="Screenshot 2024-11-10 at 17 39 28" src="https://github.com/user-attachments/assets/86a0dcf3-d12c-4169-8548-1e0723a57999">
 
