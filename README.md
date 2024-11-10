@@ -19,9 +19,10 @@
 - Break the big business questions down into smaller questions
 <img width="615" alt="Screenshot 2024-11-10 at 17 22 53" src="https://github.com/user-attachments/assets/77eb303d-1b49-4c4d-9b91-45f76d38835b">
 <img width="832" alt="Screenshot 2024-11-10 at 17 24 13" src="https://github.com/user-attachments/assets/f896538a-b7b3-40d5-87d8-b6e1323a0e9c">
-
+![Uploading Screenshot 2024-11-10 at 17.31.50.png…]()
 
 - Translate the questions to the technique
+
 
 
 
